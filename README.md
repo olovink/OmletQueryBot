@@ -1,4 +1,6 @@
-# OmAPI
+# OmletQueryBot (https://omapi.ru)
+
+
 ### Get Minecraft Query information with help Rest and OmAPI
 
 > Commands:
