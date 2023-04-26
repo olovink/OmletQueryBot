@@ -49,14 +49,3 @@ Client.on(`connect`,
         );
     }
 );
-Client.on("disconnect",
-    async function() {
-        console.log(`Бот отключился`)
-    }
-);
-Client.on("connect_error" ,
-    function (error) {
-        console.log(error);
-        Client.close()
-    }
-)
