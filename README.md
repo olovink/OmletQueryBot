@@ -1,5 +1,6 @@
 # OmletQueryBot (https://omapi.ru)
 
+Omlet Arcade
 
 ### Get Minecraft Query information with help Rest and OmAPI
 
